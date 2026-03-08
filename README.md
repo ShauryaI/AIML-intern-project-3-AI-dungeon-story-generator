@@ -14,6 +14,6 @@ Python, GPT-2/GPT-Neo, Streamlit
 7.Deploy via Streamlit
 
 ## Deliverables ##
-1. Streamlit App
+1. Streamlit App: https://aiml-intern-project-3-ai-dungeon-story-generator-p6ydiuma92pew.streamlit.app/
 2. Interactive Story Samples: UI-1.png, UI-2.png, UI-3.png
 3. Codebase: app.py, story.py, ai_story.py
